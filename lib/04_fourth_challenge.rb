@@ -25,14 +25,14 @@ def fourth_challenge
       :heroine_friends => [
         #your hashes here!
         {
-          :Benvolio => {
+          :Steven => {
             name: "Steven",
             age: "30",
             attitude: "confused"
           }
         },
         {
-          :Mercutio => {
+          :Nurse => {
             name: "Nurse",
             age: "44",
             attitude: "worried"
